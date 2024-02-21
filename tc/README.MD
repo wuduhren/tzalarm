@@ -17,6 +17,7 @@
 # 設定自己喜歡的區域 (困難些)
 捷徑的原理其實很簡單，<www.d2menu.com/tz> 這個網站其實已經把現在跟下一個邪惡威脅區域列出來，PC客戶端每個小時除了收到現在區域也會收到下一個區域，這個網站應該是去擷取到那個資訊。捷徑只是去拿取網站的資訊並利用正規表達式去做篩選，若有結果就發送通知。  
 所以如果要改變通知的區域，去改那個正規表達式即可。  
+<img src='shortcut-content.jpg' width='250'>  
 
 舉個例子，下面的正規表達式當中，只有在"Cathedral and Catacombs", "Moo Moo Farm", "Arcane Sanctuary", "Tal Rasha's Tombs", "Chaos Sanctuary" 會通知。分別對應到`Cathedral\s?`, `Moo\s?`, `Arcane\s?Sanctuary`, `Tal\s?Rasha's\s?Tombs`, `Chaos\s?Sanctuary`。其中`\s?`代表包含換行的任意字串，
 ```
