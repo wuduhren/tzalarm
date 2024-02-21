@@ -27,8 +27,8 @@ Next Terror Zone:[\s\S]*?(?i)(Cathedral\s?|Moo\s?|Arcane\s?Sanctuary|Tal\s?Rasha
 ```
 
 # 區域中英文對照
-<https://news.blizzard.com/zh-tw/diablo2/23827590/%E3%80%8A%E6%9A%97%E9%BB%91%E7%A0%B4%E5%A3%9E%E7%A5%9E-ii%EF%BC%9A%E7%8D%84%E7%81%AB%E9%87%8D%E7%94%9F%E3%80%8B%E6%9B%B4%E6%96%B0%E6%AA%94-2-5-%E7%8F%BE%E5%B7%B2%E6%8E%A8%E5%87%BA>  
-<https://news.blizzard.com/en-us/diablo2/23816418/diablo-ii-resurrected-ptr-2-5-terror-zones-now-live>  
+中: <https://news.blizzard.com/zh-tw/diablo2/23827590/%E3%80%8A%E6%9A%97%E9%BB%91%E7%A0%B4%E5%A3%9E%E7%A5%9E-ii%EF%BC%9A%E7%8D%84%E7%81%AB%E9%87%8D%E7%94%9F%E3%80%8B%E6%9B%B4%E6%96%B0%E6%AA%94-2-5-%E7%8F%BE%E5%B7%B2%E6%8E%A8%E5%87%BA>  
+英: <https://news.blizzard.com/en-us/diablo2/23816418/diablo-ii-resurrected-ptr-2-5-terror-zones-now-live>  
 另外注意<www.d2menu.com/tz>有時候會用不太一樣的名稱，如果發現篩選不到可能要去看一下他用的英文名稱
 
 
