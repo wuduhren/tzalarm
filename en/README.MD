@@ -14,7 +14,7 @@ You can adjust the notification to the zones you like. The default is Jail, Cath
 3. Repeat step two for 7:55, 8:55,...0:55. This way you will be notified 5 minutes earlier whenever there is a good zone coming. Change the time as you wish.  
 <img src='automate-shortcut-2.jpeg' width='250'>
 
-# Adjust "Good Zone"
+# Adjust "Good Zone" (You don't need to)
 How this tool works is easy. <www.d2menu.com/tz> already listed the zone next hour. The shortcut get the content. Use regular expression to filter and send notification.  
 <img src='shortcut-content.jpeg' width='250'>  
 So just adjust the regular expression, if you want to add or remove the "Good Zone". For example, below regular expression matches Jail, Cathedral and Catacombs, Moo Moo Farm, Arcane Sanctuary, Tal Rasha's Tombs, Travincal, Durance of Hate, Chaos Sanctuary, Nihlathak's Temple, Worldstone Keep.
