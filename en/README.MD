@@ -4,7 +4,7 @@ You can adjust the notification to the zones you like. The default is Jail, Cath
 (Now only support APPLE product)  
 <img src='notification.jpeg' width='250'>
 
-# Install
+# Install (Will take around 5 minutes)
 1. Turn on your iPhone. Go to <https://www.icloud.com/shortcuts/02fc987248f646d7b04dcdd561e184db> to down load this shortcut. Turn on `Shortcut` App. You should be able to find the shortcut I wrote, `CHECK TZ`. Click and run. It will ask for some permissions at the first time running. This shortcut will check if there is a "good zone" coming. If so, it will show notification.  
 <img src='get-shortcut.jpeg' width='250'>
 
